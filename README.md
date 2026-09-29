@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SH4D0WBROK3R
-- 👀 I'm interested in simplifying processes and automating simple repetitive tasks.
+- 👀 I'm interested in minimizing processes and possibly making apps as simple .
 - 🌱 I'm currently learning how not to screw things up... lol
-- 💞️ I'm looking to collaborate here by occasionally uploading some small projects.
 - 📫 How to reach me: I'm not expecting it to happen, but if someone really wants to, my email is bernaldsolano@proton.me.
 - ☕︎  If you feel like I did something for you and want to donate, you may do it at https://ko-fi.com/sh4d0wbrok3r.
 
